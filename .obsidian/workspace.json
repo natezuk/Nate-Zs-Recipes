@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "626874690df2ff02",
+    "type": "split",
+    "children": [
+      {
+        "id": "abd3fd768805757a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc05a0cfab967078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nate's recipes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e05704000abaf79f",
+    "type": "split",
+    "children": [
+      {
+        "id": "86a88d1a5175d20d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74d231401b4a20f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f37ced4d2649e71f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4c6aff7930d619c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5cfe5990c5c506a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e26c7c774b1d9449",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9691abeee26f3c96",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Nate's recipes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd620ed42af7796b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Nate's recipes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba44eae517b947f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e5cfaed617d4239",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Nate's recipes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "74d231401b4a20f6",
+  "lastOpenFiles": [
+    "Bread_and_pastries/Babka_52559928.md",
+    "Salad-dressings-and-sauces_52559950.md",
+    "52592671.md",
+    "index.md",
+    "Breads-and-pastries_53739533.md",
+    "Dishes/Chicken pot pie.md",
+    "Nate's recipes.md"
+  ]
+}
