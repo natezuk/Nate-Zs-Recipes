@@ -19,6 +19,10 @@
 2. Add liquids & spices.
 3. Bake at 350 degrees for about 15 minutes.  Let cool for 5 minutes on the pan, then transfer to rack/plate.
 
+### Variants:
+
+**Pumpkin scones:** Remove ¼ cup buttermilk and heavy cream.  Add 1 cup pumpkin, 1 tsp ginger, and ½ tsp allspice.
+
 ---
 
 ### Notes
@@ -36,8 +40,6 @@ Tried just 1 ½ cups whole milk instead of cream and buttermilk, crisco instead 
 The lightness of the scones may be due to the use of less fat (crisco, whole milk). 
 
 Crumbliness possibly due to use of whole wheat.  **Requires higher ratio of all-purpose to whole wheat next time**.
-
-**Pumpkin scones:** Remove ¼ cup buttermilk and heavy cream.  Add 1 cup pumpkin, 1 tsp ginger, and ½ tsp allspice.
 
 #### (2/10/15)
 
