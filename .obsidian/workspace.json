@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bdc0755d4d0da1ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bread_and_pastries/Scones, American style.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Bread_and_pastries/Scones, American style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Bread_and_pastries/Scones, American style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Bread_and_pastries/Scones, American style.md"
               }
             }
           }
@@ -136,10 +149,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cc05a0cfab967078",
+  "active": "bdc0755d4d0da1ea",
   "lastOpenFiles": [
-    "Bread_and_pastries/Babka.md",
+    "Bread_and_pastries/Scones, British style.md",
+    "Bread_and_pastries/Scones, American style.md",
     "README.md",
+    "Bread_and_pastries/Babka.md",
     "Salad-dressings-and-sauces_52559950.md",
     "52592671.md",
     "index.md",

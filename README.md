@@ -7,7 +7,8 @@
 [[Babka]]
 [[Brioche_53739540]]
 [[Crepes_54558721]]
-[[Scones_53739607]]
+[[Scones, American style]]
+[[Scones, British style]]
 
 ### Dishes
 
