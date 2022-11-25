@@ -5,8 +5,8 @@
 ### Bread & Pastries
 
 [[Babka]]
-[[Brioche_53739540]]
-[[Crepes_54558721]]
+[[Brioche]]
+[[Crepes]]
 [[Scones, American style]]
 [[Scones, British style]]
 
@@ -14,14 +14,14 @@
 
 [[Chicken pot pie]]
 [[Granola]]
-[[Maple-Brussels-Sprouts_53739598]]
+[[Maple Brussels Sprouts]]
 [[Pickled beets]]
-[[Roasted-kale_52658217]]
-[[Stuffed-cabbage_52658192]]
+[[Roasted kale]]
+[[Stuffed Cabbage]]
 
 ### Salad dressings & Sauces
 
-[[Cucumber-salad-dressing_52592715]]
+[[Cucumber Salad Dressing]]
 
 ### Drinks
 
@@ -29,9 +29,9 @@
 
 ### Desserts
 
-[[Biscotti_55738369]]
-[[Vanilla-ice-cream_53641217]]
+[[Biscotti]]
+[[Vanilla Ice Cream]]
 
 ### Candies
 
-[[Caramel-apples_53739619]]
+[[Caramel Apples]]

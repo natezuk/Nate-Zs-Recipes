@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dishes/Pickled beets.md",
+                "file": "Bread_and_pastries/Brioche.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dishes/Pickled beets.md",
+                "file": "Bread_and_pastries/Brioche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dishes/Pickled beets.md",
+                "file": "Bread_and_pastries/Brioche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dishes/Pickled beets.md"
+                "file": "Bread_and_pastries/Brioche.md"
               }
             }
           }
@@ -153,15 +153,15 @@
   },
   "active": "411428735fdefad4",
   "lastOpenFiles": [
-    "README.md",
-    "Dishes/Granola.md",
-    "Bread_and_pastries/Scones, American style.md",
+    "Candies/Caramel Apples.md",
+    "Desserts/Biscotti.md",
+    "Desserts/Vanilla Ice Cream.md",
+    "Salad_dressings_and_sauces/Cucumber Salad Dressing.md",
+    "Dishes/Stuffed Cabbage.md",
+    "Dishes/Maple Brussels Sprouts.md",
+    "Dishes/Roasted kale.md",
     "Drinks/Masala Chai.md",
-    "Bread_and_pastries/Scones, British style.md",
-    "Bread_and_pastries/Babka.md",
-    "Salad-dressings-and-sauces_52559950.md",
-    "52592671.md",
-    "index.md",
-    "Breads-and-pastries_53739533.md"
+    "Bread_and_pastries/Crepes.md",
+    "Dishes/Pickled beets.md"
   ]
 }
