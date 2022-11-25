@@ -4,8 +4,8 @@
 
 ### Bread & Pastries
 
-[[Babka]]
-[[Brioche]]
+[Babka](Bread_and_pastries/Babka)
+[Brioche](Bread_and_pastries/Brioche)
 [[Crepes]]
 [[Scones, American style]]
 [[Scones, British style]]
