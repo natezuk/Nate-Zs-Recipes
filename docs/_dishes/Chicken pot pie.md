@@ -1,3 +1,6 @@
+---
+title: Chicken Pot Pie
+---
 _This is a good use of the chicken and veggies cooked when making chicken stock. I mix the veggies up often, with less carrots, no chicken breast, add potatoes, add peas and other frozen veggies, etc. But the rest of the ingredients are the same._
 
 ### Ingredients:

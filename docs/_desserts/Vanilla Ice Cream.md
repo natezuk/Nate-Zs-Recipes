@@ -1,3 +1,6 @@
+---
+title: Vanilla Ice Cream
+---
 *Based on recipes from Baking & Pastry and Forgotten Cooking. Variants are found below.*
 *Note also that this recipe does not involve an ice cream maker because I don't have one...yet.*
 

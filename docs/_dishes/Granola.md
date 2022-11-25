@@ -1,3 +1,7 @@
+---
+title: Granola
+---
+
 ### Ingredients: 
 
 -   400 g oats

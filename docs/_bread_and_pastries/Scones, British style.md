@@ -1,3 +1,6 @@
+---
+title: Scones, British style
+---
 *Based on the recipe in Lateral Cooking*
 
 ### Ingredients:

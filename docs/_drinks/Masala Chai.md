@@ -1,3 +1,6 @@
+---
+title: Masala Chai
+---
 ### Ingredients
 
 - 3 cups water

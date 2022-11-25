@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/_salad_dressings_and_sauces/Cucumber Salad Dressing.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/_salad_dressings_and_sauces/Cucumber Salad Dressing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/_salad_dressings_and_sauces/Cucumber Salad Dressing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/_salad_dressings_and_sauces/Cucumber Salad Dressing.md"
               }
             }
           }
@@ -153,15 +153,15 @@
   },
   "active": "411428735fdefad4",
   "lastOpenFiles": [
-    "Bread_and_pastries/Brioche.md",
-    "README.md",
-    "Bread_and_pastries/Babka.md",
-    "Candies/Caramel Apples.md",
-    "Desserts/Biscotti.md",
-    "Desserts/Vanilla Ice Cream.md",
-    "Salad_dressings_and_sauces/Cucumber Salad Dressing.md",
-    "Dishes/Stuffed Cabbage.md",
-    "Dishes/Maple Brussels Sprouts.md",
-    "Dishes/Roasted kale.md"
+    "docs/_drinks/Masala Chai.md",
+    "docs/_dishes/Stuffed Cabbage.md",
+    "docs/_dishes/Roasted kale.md",
+    "docs/_dishes/Pickled beets.md",
+    "docs/_dishes/Maple Brussels Sprouts.md",
+    "docs/_dishes/Granola.md",
+    "docs/_dishes/Chicken pot pie.md",
+    "docs/_desserts/Vanilla Ice Cream.md",
+    "docs/_desserts/Biscotti.md",
+    "docs/_candies/Caramel Apples.md"
   ]
 }

@@ -1,3 +1,6 @@
+---
+title: Maple Brussels Sprouts
+---
 *I think this is from a Wegman's booklet of recipes*.
 
 Time: 5 minutes prep (after cutting brussels sprouts) + 25 minutes baking

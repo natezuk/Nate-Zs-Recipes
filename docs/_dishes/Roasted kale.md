@@ -1,3 +1,6 @@
+---
+title: Roasted Kale
+---
 ### Ingredients:
 
 -   250 g kale

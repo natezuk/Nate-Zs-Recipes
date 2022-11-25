@@ -1,3 +1,6 @@
+---
+title: Crepes
+---
 *Partly based on the Mosswood Cookbook and Lateral Cooking*.
 
 Makes 5-6 crepes. Takes \~1 hour.

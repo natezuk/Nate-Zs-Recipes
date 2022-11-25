@@ -1,3 +1,6 @@
+---
+title: Pickled Beets
+---
 ### Ingredients:
 
 -   2 large beets, peeled and sliced into chunks

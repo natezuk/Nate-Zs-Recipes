@@ -1,3 +1,6 @@
+---
+title: Stuffed Cabbage
+---
 ### Ingredients:
 
 - A whole white cabbage (cut off the base just above the stem to make the leaves easier to remove in step 3)

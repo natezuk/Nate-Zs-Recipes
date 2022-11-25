@@ -1,3 +1,6 @@
+---
+title: Brioche
+---
 *Based on Lateral Cooking.*
 
 Time: ~40 min prep + 2 hrs waiting + 5-10 minutes prep + 30 min waiting + 40 min baking

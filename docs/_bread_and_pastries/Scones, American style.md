@@ -1,3 +1,6 @@
+---
+title: Scones, American style
+---
 *Based on Olivia's recipe.*
 
 ### Ingredients

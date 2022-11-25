@@ -1,8 +1,9 @@
+---
+title: Babka
+---
 *This recipe comes from the book \"A Treasury in Jewish Baking\" by
 Marcy Goldman. The original recipe pretty reliably makes 4 babka, aka a
 lot of babka. I have modified it somewhat from the original.*
-
-## Babka
 
 ### Ingredients for dough:
 

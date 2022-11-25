@@ -1,3 +1,6 @@
+---
+title: Caramel Apples
+---
 *The caramel recipe is modified from Chocolates & Candies.*
 
 ### Ingredients:

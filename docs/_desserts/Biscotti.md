@@ -1,3 +1,6 @@
+---
+title: Biscotti
+---
 *Based on the recipe from Baking & Pastry.*
 
 ### Ingredients:
