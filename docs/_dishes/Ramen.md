@@ -11,7 +11,7 @@ Makes 2 servings.
 - 2 tsp mirin
 - 1 tsp sesame oil
 - 100 g ramen noodles
-- 2 tea eggs (one egg per bowl, I have a recipe [here](Tea%20Eggs.md))
+- 2 tea eggs (one egg per bowl, I have a recipe [here](Tea%20Eggs))
 - Green onions
 - Bean sprouts
 - White cabbage, finely sliced
