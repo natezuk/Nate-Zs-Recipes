@@ -22,31 +22,19 @@
             }
           },
           {
-            "id": "89dd10b2fac8d798",
+            "id": "1fc93c2c05fd46ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_dishes/Cauliflower Red Curry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc67a44bf348ab5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/_dishes/Orange Chicken Tofu.md",
+                "file": "docs/_desserts/Poached Quince.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_dishes/Orange Chicken Tofu.md",
+                "file": "docs/_desserts/Poached Quince.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_dishes/Orange Chicken Tofu.md",
+                "file": "docs/_desserts/Poached Quince.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_dishes/Orange Chicken Tofu.md"
+                "file": "docs/_desserts/Poached Quince.md"
               }
             }
           }
@@ -163,8 +151,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fc67a44bf348ab5b",
+  "active": "1fc93c2c05fd46ee",
   "lastOpenFiles": [
+    "docs/_salad_dressings_and_sauces/Honey Mustard Dressing.md",
+    "docs/_dishes/Orange Chicken Tofu.md",
     "docs/_dishes/Cauliflower Red Curry.md",
     "README.md",
     "docs/_dishes/Chicken Pot Pie.md",
@@ -172,8 +162,6 @@
     "docs/_salad_dressings_and_sauces/Soy Salad Dressing.md",
     "docs/_drinks/Mulled Beer.md",
     "docs/_desserts/Brownies.md",
-    "docs/_desserts/Nestle-style chocolate chip cookies.md",
-    "docs/_drinks/Hot Arak.md",
-    "docs/_salad_dressings_and_sauces/Chicken Stock.md"
+    "docs/_desserts/Nestle-style chocolate chip cookies.md"
   ]
 }
