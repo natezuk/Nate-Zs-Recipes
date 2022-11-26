@@ -10,7 +10,7 @@ layout: home
 <h3>{{ collection.name }}</h3>
 <ul>
 {% for recipe in site[collection.label] %}
-    <li><a href="{{ recipe.url }}">{{ recipe.title }}</a></li>
+    <li><a href="{{ site.baseurl}}{{ recipe.url }}">{{ recipe.title }}</a></li>
 {% endfor %}
 </ul>
 {% endfor %}
