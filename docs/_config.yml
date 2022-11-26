@@ -22,8 +22,8 @@ title: Nate Z's Recipes
 email: zsxbox@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Collection of recipes
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.natezuk.me/Nate-Zs-Recipes" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Nate-Zs-Recipes" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  natezuk
 
