@@ -1,3 +1,6 @@
+---
+title: Ramen
+---
 *Based on the recipe from Let's Make Ramen!*
 Makes 2 servings.
 

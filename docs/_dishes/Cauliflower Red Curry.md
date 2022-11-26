@@ -1,3 +1,6 @@
+---
+title: Cauliflower Red Curry
+---
 ### Ingredients:
 
 - 1 whole cauliflower, chopped

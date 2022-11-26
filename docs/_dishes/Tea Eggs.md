@@ -1,3 +1,6 @@
+---
+title: Tea Eggs
+---
 *I considerably modified this from a recipe online, but I don't remember where...*
 
 ### Ingredients:

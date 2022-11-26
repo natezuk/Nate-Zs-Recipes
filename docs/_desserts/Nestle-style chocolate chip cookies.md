@@ -1,3 +1,6 @@
+---
+title: Nestle-style Chocolate Chip Cookies
+---
 *Basically the nestle chocolate chip recipe, but I modified it for grams of ingredients.*
 
 ### Ingredients:

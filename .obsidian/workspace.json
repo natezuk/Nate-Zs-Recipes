@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_dishes/Ramen.md",
+                "file": "docs/_dishes/Tea Eggs.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_dishes/Ramen.md",
+                "file": "docs/_dishes/Tea Eggs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_dishes/Ramen.md",
+                "file": "docs/_dishes/Tea Eggs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_dishes/Ramen.md"
+                "file": "docs/_dishes/Tea Eggs.md"
               }
             }
           }
@@ -153,15 +153,15 @@
   },
   "active": "514801b8946f11b1",
   "lastOpenFiles": [
-    "docs/_dishes/Tea Eggs.md",
     "docs/_dishes/Ramen.md",
+    "docs/_dishes/Cauliflower Red Curry.md",
+    "docs/_desserts/Nestle-style chocolate chip cookies.md",
+    "docs/_desserts/Vanilla Ice Cream.md",
+    "docs/_desserts/Biscotti.md",
+    "docs/_dishes/Tea Eggs.md",
     "_dishes/Tea.md",
     "Tea.md",
     "README.md",
-    "docs/_desserts/Nestle-style chocolate chip cookies.md",
-    "docs/_dishes/Cauliflower Red Curry.md",
-    "docs/_dishes/Chicken pot pie.md",
-    "docs/_salad_dressings_and_sauces/Cucumber Salad Dressing.md",
-    "docs/_drinks/Masala Chai.md"
+    "docs/_dishes/Chicken pot pie.md"
   ]
 }
