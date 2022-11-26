@@ -4,6 +4,7 @@ title: Food Wars Fried Chicken
 *This is a slightly modified recipe of the fried chicken from the manga Food Wars.*
 
 See step 1 -- This should be done several hours before frying the chicken.
+Serve with rice.
 
 ### Ingredients:
 
