@@ -1,5 +1,5 @@
 ---
-Title: Chicken Stock
+title: Chicken Stock
 ---
 *I got this starting from a recipe from Forgotten Skills of Cooking and the Professional Chef, as well as some online recipes, but eventually settled on this recipe. The amounts of each veggie and herb is very flexible, I have made this without one or two of the veggies. What's key is the proportion of chicken to water, which is just under a 1:2 ratio. The resulting stock when cooled is gelatinous.*
 
