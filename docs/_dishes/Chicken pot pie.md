@@ -5,7 +5,7 @@ _This is a good use of the chicken and veggies cooked when making chicken stock.
 
 ### Ingredients:
 
--   Veggies from [chicken stock](../_salad_dressings_and_sauces/Chicken%20Stock) (500 - 1000 g?)
+-   Veggies from [chicken stock](../salad_dressings_and_sauces/Chicken%20Stock) (500 - 1000 g?)
     -   AND/OR 1 kg chicken beasts, cubed
     -   AND/OR 250 g potatoes, cubed
     -   AND/OR 250 - 500 g frozen veggies
