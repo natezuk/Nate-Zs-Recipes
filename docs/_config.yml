@@ -42,6 +42,7 @@ collections:
     output: true
   salad_dressings_and_sauces:
     name: Salad Dressings & Sauces
+    output: true
   drinks:
     name: Drinks
     output: true
