@@ -1,7 +1,7 @@
 ---
 title: Hummus
 ---
-*I think this needs work, but here's my latest version.*
+*This is somewhat based on the Jerusalem cookbook. I think this needs work, but here's my latest version.*
 
 ### Ingredients:
 
