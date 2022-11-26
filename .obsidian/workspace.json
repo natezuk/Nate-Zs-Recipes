@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_salad_dressings_and_sauces/Chicken Stock.md",
+                "file": "docs/_dishes/Chicken pot pie.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_salad_dressings_and_sauces/Chicken Stock.md",
+                "file": "docs/_dishes/Chicken pot pie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_salad_dressings_and_sauces/Chicken Stock.md",
+                "file": "docs/_dishes/Chicken pot pie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_salad_dressings_and_sauces/Chicken Stock.md"
+                "file": "docs/_dishes/Chicken pot pie.md"
               }
             }
           }
@@ -153,15 +153,15 @@
   },
   "active": "8ebfc7ae2ac4c21f",
   "lastOpenFiles": [
-    "docs/_drinks/Hot Whisky.md",
     "docs/_salad_dressings_and_sauces/Chicken Stock.md",
+    "docs/_dishes/Chicken pot pie.md",
+    "docs/_drinks/Hot Whisky.md",
     "docs/_desserts/Tahini Cookies.md",
     "README.md",
     "docs/_dishes/Ramen.md",
     "docs/_dishes/Tea Eggs.md",
     "docs/_dishes/Cauliflower Red Curry.md",
     "docs/_desserts/Nestle-style chocolate chip cookies.md",
-    "docs/_desserts/Vanilla Ice Cream.md",
-    "docs/_desserts/Biscotti.md"
+    "docs/_desserts/Vanilla Ice Cream.md"
   ]
 }
