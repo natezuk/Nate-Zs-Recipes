@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "ee0b3d06046e66af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/_desserts/Brownies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_desserts/Brownies.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_desserts/Brownies.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_desserts/Brownies.md"
+                "file": "README.md"
               }
             }
           }
@@ -151,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ee0b3d06046e66af",
+  "active": "cc05a0cfab967078",
   "lastOpenFiles": [
-    "docs/_drinks/Hot Arak.md",
-    "docs/_dishes/Chicken pot pie.md",
-    "docs/_salad_dressings_and_sauces/Chicken Stock.md",
     "docs/_salad_dressings_and_sauces/Cucumber Salad Dressing.md",
+    "docs/_salad_dressings_and_sauces/Soy Salad Dressing.md",
+    "docs/_drinks/Mulled Beer.md",
+    "docs/_dishes/Chicken Pot Pie.md",
+    "docs/_desserts/Brownies.md",
+    "docs/_desserts/Nestle-style chocolate chip cookies.md",
+    "docs/_drinks/Hot Arak.md",
+    "docs/_salad_dressings_and_sauces/Chicken Stock.md",
     "docs/_drinks/Hot Whisky.md",
-    "docs/_desserts/Tahini Cookies.md",
-    "README.md",
-    "docs/_dishes/Ramen.md",
-    "docs/_dishes/Tea Eggs.md",
-    "docs/_dishes/Cauliflower Red Curry.md"
+    "docs/_desserts/Tahini Cookies.md"
   ]
 }
