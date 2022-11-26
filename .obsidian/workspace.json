@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_salad_dressings_and_sauces/Cucumber Salad Dressing.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_salad_dressings_and_sauces/Cucumber Salad Dressing.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_salad_dressings_and_sauces/Cucumber Salad Dressing.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_salad_dressings_and_sauces/Cucumber Salad Dressing.md"
+                "file": "README.md"
               }
             }
           }
@@ -153,6 +153,7 @@
   },
   "active": "411428735fdefad4",
   "lastOpenFiles": [
+    "docs/_salad_dressings_and_sauces/Cucumber Salad Dressing.md",
     "docs/_drinks/Masala Chai.md",
     "docs/_dishes/Stuffed Cabbage.md",
     "docs/_dishes/Roasted kale.md",
@@ -161,7 +162,6 @@
     "docs/_dishes/Granola.md",
     "docs/_dishes/Chicken pot pie.md",
     "docs/_desserts/Vanilla Ice Cream.md",
-    "docs/_desserts/Biscotti.md",
-    "docs/_candies/Caramel Apples.md"
+    "docs/_desserts/Biscotti.md"
   ]
 }
