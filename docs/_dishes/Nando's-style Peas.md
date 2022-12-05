@@ -4,7 +4,7 @@ title: Nando's-style Peas
 *Based on a recipe by the Daises & Pie blog:* https://daisiesandpie.co.uk/how-to-make-nandos-style-peas/
 
 Makes about 6 servings.
-15 minutes preparation (once the peas are cooked).
+10 minutes preparation (once the peas are cooked).
 
 ### Ingredients:
 
