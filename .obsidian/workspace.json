@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_dishes/Nando's-style Peas.md",
+                "file": "docs/_dishes/Irish Beef Stew.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_dishes/Nando's-style Peas.md",
+                "file": "docs/_dishes/Irish Beef Stew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_dishes/Nando's-style Peas.md",
+                "file": "docs/_dishes/Irish Beef Stew.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_dishes/Nando's-style Peas.md"
+                "file": "docs/_dishes/Irish Beef Stew.md"
               }
             }
           }
@@ -153,8 +153,8 @@
   },
   "active": "a137dd91fa514d7f",
   "lastOpenFiles": [
-    "docs/_dishes/Irish Beef Stew.md",
     "docs/_dishes/Nando's-style Peas.md",
+    "docs/_dishes/Irish Beef Stew.md",
     "docs/_dishes/Cauliflower Red Curry.md",
     "docs/_dishes/Chicken Pot Pie.md",
     "README.md",

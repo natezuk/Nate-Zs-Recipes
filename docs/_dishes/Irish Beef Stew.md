@@ -14,8 +14,8 @@ Makes 8-10 servings.
 - 1/2 bulb garlic, minced
 - 1 kg potatoes, cubed
 - 2 Tbsp olive oil
-- 1 tsp salt
-- 1/2 tsp ground pepper
+- 2 tsp salt
+- 1 tsp ground pepper
 - 1/4 cup plain flour
 - 1/4 cup tomato paste
 - 250 mL dark beer (preferably a stout, like Guinness)

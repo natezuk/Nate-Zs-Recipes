@@ -8,11 +8,11 @@ Makes about 6 servings.
 
 ### Ingredients:
 
-- 250 g peas (cooked)
+- 400 g peas (cooked)
 - 50 g olive oil
-- 1/2 tsp red pepper flakes
-- 1-2 sprigs mint (about 5 mint leaves), finely chopped
-- 1 bunch flat leaf parsley, finely chopped (comes to about 1 Tbsp when chopped)
+- 1 tsp red pepper flakes
+- Mint leaves from 2-3 sprigs, finely chopped
+- 1 bunch flat leaf parsley, finely chopped (comes to about 2 Tbsp when chopped)
 - 1/2 tsp salt
 - Ground pepper
 
