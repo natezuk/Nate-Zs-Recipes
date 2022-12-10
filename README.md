@@ -3,8 +3,12 @@ www.natezuk.me/Nate-Zs-Recipes
 
 >[!todo]
 >- [ ] Puff pastry
->- [ ] Beef stew (Sharon's version)
+>- [x] Beef stew (Sharon's version)
 >	- https://www.dinneratthezoo.com/irish-stew-recipe/
 >- [ ] Bread
 >- [ ] Bourekas
+>- [ ] Gnocchi
+>- [ ] Cooking chickpeas
+>- [ ] Aquafaba
+>- [ ] Kettle corn
 

@@ -22,43 +22,19 @@
             }
           },
           {
-            "id": "a137dd91fa514d7f",
+            "id": "6cdb1ac6f32acbb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_dishes/Irish Beef Stew.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2645c9a08f91bfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/_bread_and_pastries/Pancakes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be14f6568d1adcf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/_salad_dressings_and_sauces/White Cheese Sauce.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_salad_dressings_and_sauces/White Cheese Sauce.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_salad_dressings_and_sauces/White Cheese Sauce.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_salad_dressings_and_sauces/White Cheese Sauce.md"
+                "file": "README.md"
               }
             }
           }
@@ -175,17 +151,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "be14f6568d1adcf5",
+  "active": "6cdb1ac6f32acbb4",
   "lastOpenFiles": [
-    "docs/_bread_and_pastries/Pancakes.md",
+    "docs/index.md",
+    "docs/about.md",
+    "README.md",
     "docs/_dishes/Irish Beef Stew.md",
+    "docs/_salad_dressings_and_sauces/White Cheese Sauce.md",
+    "docs/_bread_and_pastries/Pancakes.md",
     "docs/_dishes/Nando's-style Peas.md",
     "docs/_dishes/Cauliflower Red Curry.md",
     "docs/_dishes/Chicken Pot Pie.md",
-    "README.md",
-    "docs/_desserts/Pies.md",
-    "docs/_bread_and_pastries/Matza.md",
-    "docs/_salad_dressings_and_sauces/Hummus.md",
-    "docs/_dishes/Food Wars Fried Chicken.md"
+    "docs/_desserts/Pies.md"
   ]
 }
