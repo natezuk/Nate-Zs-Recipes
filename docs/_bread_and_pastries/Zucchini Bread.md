@@ -25,4 +25,5 @@ Preheat the oven to 175 C.
 2. In a smaller bowl, mix the eggs and sugar together until homogenous. Then add the oil and vanilla, and mix until fully incorporated (there isn't separated oil from the egg and sugar mixture).
 3. Add the egg mixture to the flour and mix until fully incorporated. Add the zucchini and walnuts and mix until fully incorporated and the zucchini is evenly distributed in the batter.
 5. Pour the batter into a greased 9x5 inch bread pan
-6. Bake for 40 minutes at 175 C. When the bread is ready, a knife stuck into the center should come out clean.
+6. Bake for 70 minutes at 175 C. When the bread is ready, a knife stuck into the center should come out clean.
+7. Let the bread pan cool on a wire rack for 20 minutes before serving.

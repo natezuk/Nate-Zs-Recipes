@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_dishes/Chili.md",
+                "file": "docs/_bread_and_pastries/Zucchini Bread.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_dishes/Chili.md",
+                "file": "docs/_bread_and_pastries/Zucchini Bread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_dishes/Chili.md",
+                "file": "docs/_bread_and_pastries/Zucchini Bread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_dishes/Chili.md"
+                "file": "docs/_bread_and_pastries/Zucchini Bread.md"
               }
             }
           }
@@ -153,10 +153,10 @@
   },
   "active": "4631cd2525be5a5b",
   "lastOpenFiles": [
-    "docs/_bread_and_pastries/Zucchini Bread.md",
     "docs/_dishes/Chili.md",
-    "docs/_dishes/Kettle Corn.md",
     "README.md",
+    "docs/_bread_and_pastries/Zucchini Bread.md",
+    "docs/_dishes/Kettle Corn.md",
     "docs/index.md",
     "docs/about.md",
     "docs/_dishes/Irish Beef Stew.md",
