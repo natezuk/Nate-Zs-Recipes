@@ -6,7 +6,7 @@ title: Honey Mustard Dressing
 
 - 1 fl oz olive oil
 - 1 fl oz white wine vinegar
-- 2 tsp mustard (strong dijon mustard is the best)
+- 2 tsp mustard (strong English mustard is the best)
 - 2 Tbsp honey
 - 1/4 tsp salt
 - Ground pepper

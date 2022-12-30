@@ -22,12 +22,24 @@
             }
           },
           {
-            "id": "4631cd2525be5a5b",
+            "id": "e3eba6ddafcfbbdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_bread_and_pastries/Zucchini Bread.md",
+                "file": "older_recipes/Baked Mac and Cheese.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21db8637d9fe7ac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/_salad_dressings_and_sauces/Swedish Meatballs Sauce.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_bread_and_pastries/Zucchini Bread.md",
+                "file": "older_recipes/Baked Mac and Cheese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_bread_and_pastries/Zucchini Bread.md",
+                "file": "older_recipes/Baked Mac and Cheese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_bread_and_pastries/Zucchini Bread.md"
+                "file": "older_recipes/Baked Mac and Cheese.md"
               }
             }
           }
@@ -151,17 +163,27 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4631cd2525be5a5b",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e3eba6ddafcfbbdf",
   "lastOpenFiles": [
-    "docs/_dishes/Chili.md",
+    "docs/_salad_dressings_and_sauces/Swedish Meatballs Sauce.md",
+    "older_recipes/Baked Mac and Cheese.md",
     "README.md",
+    "docs/_salad_dressings_and_sauces/Honey Mustard Dressing.md",
     "docs/_bread_and_pastries/Zucchini Bread.md",
+    "docs/_dishes/Chili.md",
     "docs/_dishes/Kettle Corn.md",
     "docs/index.md",
     "docs/about.md",
-    "docs/_dishes/Irish Beef Stew.md",
-    "docs/_salad_dressings_and_sauces/White Cheese Sauce.md",
-    "docs/_bread_and_pastries/Pancakes.md",
-    "docs/_dishes/Nando's-style Peas.md"
+    "docs/_dishes/Irish Beef Stew.md"
   ]
 }
