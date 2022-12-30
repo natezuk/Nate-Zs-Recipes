@@ -1,7 +1,7 @@
 ---
 title: Swedish Meatballs Sauce
 ---
-*Based on the Ikea recipe found here: https://globalnews.ca/news/6846188/ikea-meatball-recipe-coronavirus/*.
+*Based on the Ikea recipe found here: [https://globalnews.ca/news/6846188/ikea-meatball-recipe-coronavirus/](https://globalnews.ca/news/6846188/ikea-meatball-recipe-coronavirus/).*
 
 Takes 10-15 minutes to make.
 

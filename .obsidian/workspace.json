@@ -27,18 +27,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "older_recipes/Baked Mac and Cheese.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21db8637d9fe7ac9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "docs/_salad_dressings_and_sauces/Swedish Meatballs Sauce.md",
                 "mode": "source",
                 "source": false
@@ -112,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "older_recipes/Baked Mac and Cheese.md",
+                "file": "docs/_salad_dressings_and_sauces/Swedish Meatballs Sauce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "older_recipes/Baked Mac and Cheese.md",
+                "file": "docs/_salad_dressings_and_sauces/Swedish Meatballs Sauce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "older_recipes/Baked Mac and Cheese.md"
+                "file": "docs/_salad_dressings_and_sauces/Swedish Meatballs Sauce.md"
               }
             }
           }
@@ -175,15 +163,15 @@
   },
   "active": "e3eba6ddafcfbbdf",
   "lastOpenFiles": [
+    "docs/_salad_dressings_and_sauces/Soy Salad Dressing.md",
     "docs/_salad_dressings_and_sauces/Swedish Meatballs Sauce.md",
+    "docs/_salad_dressings_and_sauces/Hummus.md",
     "older_recipes/Baked Mac and Cheese.md",
     "README.md",
     "docs/_salad_dressings_and_sauces/Honey Mustard Dressing.md",
     "docs/_bread_and_pastries/Zucchini Bread.md",
     "docs/_dishes/Chili.md",
     "docs/_dishes/Kettle Corn.md",
-    "docs/index.md",
-    "docs/about.md",
-    "docs/_dishes/Irish Beef Stew.md"
+    "docs/index.md"
   ]
 }
