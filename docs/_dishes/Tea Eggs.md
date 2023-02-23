@@ -21,7 +21,7 @@ title: Tea Eggs
 
 ### Method:
 
-1. Boil the eggs: Boil water, then add the eggs and boil for 12 minutes.
+1. Boil the eggs: Boil water, then add the eggs and boil for another 15 minutes. *When you add the eggs, the temperature might drop and the water will stop boiling. Make sure the water is visibly boiling for at least 5 minutes before removing the eggs. I found this happens after 15 minutes.*
 2. While the eggs are cooking, combine all of the other ingredients in a medium-sized pot. Bring to a boil, then turn of the heat and let sit for 10 minutes.
 3. Use tongs to remove the large items in the brine, like the tea bags (if used) and the cinnamon stick.
 4. Deshell the eggs and place them in the brine. Wait until the brine cools to close to room temperature, then place in the fridge.
