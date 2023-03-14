@@ -27,14 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_bread_and_pastries/Flapjacks.md",
+                "file": "older_recipes/Baked Mac and Cheese.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fa2bad4dd07bc09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/_dishes/Chicken Schnitzel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_bread_and_pastries/Flapjacks.md",
+                "file": "docs/_dishes/Chicken Schnitzel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_bread_and_pastries/Flapjacks.md",
+                "file": "docs/_dishes/Chicken Schnitzel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_bread_and_pastries/Flapjacks.md"
+                "file": "docs/_dishes/Chicken Schnitzel.md"
               }
             }
           }
@@ -161,13 +173,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ef7dd092a9708e6",
+  "active": "2fa2bad4dd07bc09",
   "lastOpenFiles": [
+    "older_recipes/Baked Mac and Cheese.md",
+    "docs/_dishes/Chicken Schnitzel.md",
+    "docs/_bread_and_pastries/Flapjacks.md",
     "docs/_bread_and_pastries/Matza.md",
     "docs/_bread_and_pastries/Brioche.md",
     "README.md",
-    "older_recipes/Baked Mac and Cheese.md",
-    "docs/_bread_and_pastries/Flapjacks.md",
     "docs/_salad_dressings_and_sauces/White Cheese Sauce.md",
     "docs/_dishes/Tea Eggs.md",
     "docs/_salad_dressings_and_sauces/Swedish Meatballs Sauce.md",
