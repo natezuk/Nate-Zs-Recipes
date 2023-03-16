@@ -27,18 +27,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "older_recipes/Baked Mac and Cheese.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eed11c97d84d1f98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "docs/_dishes/Baked Mac and Cheese.md",
                 "mode": "source",
                 "source": false
@@ -46,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eed11c97d84d1f98",
+  "active": "3ef7dd092a9708e6",
   "lastOpenFiles": [
     "older_recipes/Baked Mac and Cheese.md",
     "docs/_dishes/Baked Mac and Cheese.md",

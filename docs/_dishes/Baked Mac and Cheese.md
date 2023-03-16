@@ -4,7 +4,7 @@ title: Baked Mac & Cheese
 
 ### Ingredients:
 
-- 750 g pasta
+- 500 g pasta
 - 5-6 garlic cloves
 - 1 tsp green peppercorns
 - 30 g olive oil (3 Tbsp)
