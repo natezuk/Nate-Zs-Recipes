@@ -1,7 +1,6 @@
 ---
 title: Chicken Schnitzel
 ---
-
 ### Ingredients:
 
 - 1 kg chicken breasts, smashed so it is thin (less than 1 cm)

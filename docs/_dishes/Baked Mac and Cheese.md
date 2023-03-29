@@ -1,7 +1,6 @@
 ---
 title: Baked Mac & Cheese
 ---
-
 ### Ingredients:
 
 - 500 g pasta
