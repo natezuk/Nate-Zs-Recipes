@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4bfb7b35915dcd5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/_desserts/Flourless Chocolate Cake.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_dishes/Vegetable Quiche.md",
+                "file": "docs/_desserts/Flourless Chocolate Cake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_dishes/Vegetable Quiche.md",
+                "file": "docs/_desserts/Flourless Chocolate Cake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_dishes/Vegetable Quiche.md"
+                "file": "docs/_desserts/Flourless Chocolate Cake.md"
               }
             }
           }
@@ -161,10 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7dd10277cfb30e0",
+  "active": "4bfb7b35915dcd5e",
   "lastOpenFiles": [
-    "docs/_dishes/Egg Drop Soup.md",
     "docs/_dishes/Vegetable Quiche.md",
+    "docs/_desserts/Flourless Chocolate Cake.md",
+    "docs/_dishes/Egg Drop Soup.md",
     "docs/_dishes/French Onion Soup.md",
     "docs/_dishes/Chicken Pot Pie.md",
     "docs/_dishes/Food Wars Fried Chicken.md",
