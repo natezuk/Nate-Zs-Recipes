@@ -54,8 +54,8 @@ title: Flourless Chocolate Cake
 
 ### Ingredients:
 
-- 3 fl oz orange juice
-- 1 Tbsp finely chopped mint leaves
+- 3 fl oz orange juice (about 1/2 large orange)
+- 1 Tbsp finely chopped mint leaves (about 2 sprigs)
 - 400 g powdered sugar
 - Orange zest
 
