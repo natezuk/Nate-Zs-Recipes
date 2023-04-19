@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "e451e61ab2b499b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/_dishes/Pirogies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/_dishes/Pirogies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/_dishes/Pirogies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/_dishes/Pirogies.md"
               }
             }
           }
@@ -148,11 +161,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc05a0cfab967078",
+  "active": "e451e61ab2b499b1",
   "lastOpenFiles": [
+    "README.md",
+    "docs/_dishes/Pirogies.md",
     "docs/_dishes/Matzah Brei.md",
     "docs/_desserts/Flourless Chocolate Cake.md",
-    "README.md",
     "docs/_dishes/Vegetable Quiche.md",
     "docs/_dishes/Egg Drop Soup.md",
     "docs/_dishes/French Onion Soup.md",
