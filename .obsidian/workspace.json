@@ -27,14 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_dishes/Sauteed spiced beets.md",
+                "file": "older_recipes/Bourekas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6e8fea6a8a90ec0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/_desserts/Snickerdoodles.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_dishes/Sauteed spiced beets.md",
+                "file": "docs/_desserts/Snickerdoodles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_dishes/Sauteed spiced beets.md",
+                "file": "docs/_desserts/Snickerdoodles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_dishes/Sauteed spiced beets.md"
+                "file": "docs/_desserts/Snickerdoodles.md"
               }
             }
           }
@@ -169,10 +181,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e451e61ab2b499b1",
+  "active": "d6e8fea6a8a90ec0",
   "lastOpenFiles": [
-    "older_recipes/Bourekas.md",
+    "docs/_desserts/Nestle-style chocolate chip cookies.md",
+    "docs/_desserts/Snickerdoodles.md",
+    "docs/_desserts/Biscotti.md",
     "docs/_dishes/Sauteed spiced beets.md",
+    "older_recipes/Bourekas.md",
     "docs/_dishes/Slow-cooked Red Cabbage.md",
     "docs/_dishes/Pirogies.md",
     "README.md",
@@ -193,9 +208,6 @@
     "docs/_bread_and_pastries/Matza.md",
     "docs/_bread_and_pastries/Brioche.md",
     "docs/_salad_dressings_and_sauces/White Cheese Sauce.md",
-    "docs/_dishes/Tea Eggs.md",
-    "docs/_salad_dressings_and_sauces/Swedish Meatballs Sauce.md",
-    "docs/_salad_dressings_and_sauces/Soy Salad Dressing.md",
-    "docs/_salad_dressings_and_sauces/Hummus.md"
+    "docs/_dishes/Tea Eggs.md"
   ]
 }
