@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_desserts/Snickerdoodles.md",
+                "file": "docs/_bread_and_pastries/Challah.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_desserts/Snickerdoodles.md",
+                "file": "docs/_bread_and_pastries/Challah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_desserts/Snickerdoodles.md",
+                "file": "docs/_bread_and_pastries/Challah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_desserts/Snickerdoodles.md"
+                "file": "docs/_bread_and_pastries/Challah.md"
+              }
+            }
+          },
+          {
+            "id": "e6202022f238d612",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -183,11 +193,14 @@
   },
   "active": "d6e8fea6a8a90ec0",
   "lastOpenFiles": [
-    "docs/_desserts/Nestle-style chocolate chip cookies.md",
+    "older_recipes/Bourekas.md",
+    "docs/_bread_and_pastries/Challah.md",
+    "docs/_desserts/Pies.md",
+    "docs/_bread_and_pastries/Babka.md",
     "docs/_desserts/Snickerdoodles.md",
+    "docs/_desserts/Nestle-style chocolate chip cookies.md",
     "docs/_desserts/Biscotti.md",
     "docs/_dishes/Sauteed spiced beets.md",
-    "older_recipes/Bourekas.md",
     "docs/_dishes/Slow-cooked Red Cabbage.md",
     "docs/_dishes/Pirogies.md",
     "README.md",
@@ -205,9 +218,6 @@
     "older_recipes/Baked Mac and Cheese.md",
     "docs/index.md",
     "docs/_bread_and_pastries/Flapjacks.md",
-    "docs/_bread_and_pastries/Matza.md",
-    "docs/_bread_and_pastries/Brioche.md",
-    "docs/_salad_dressings_and_sauces/White Cheese Sauce.md",
-    "docs/_dishes/Tea Eggs.md"
+    "docs/_bread_and_pastries/Matza.md"
   ]
 }
