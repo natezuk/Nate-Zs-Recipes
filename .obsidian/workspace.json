@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "older_recipes/Bourekas.md",
+                "file": "docs/_dishes/Bourekas.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,14 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_bread_and_pastries/Challah.md",
+                "file": "docs/_dishes/Orange and Fennel Roast Chicken.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_bread_and_pastries/Challah.md",
+                "file": "docs/_dishes/Bourekas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_bread_and_pastries/Challah.md",
+                "file": "docs/_dishes/Bourekas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_bread_and_pastries/Challah.md"
+                "file": "docs/_dishes/Bourekas.md"
               }
             }
           },
@@ -170,7 +170,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -191,11 +193,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6e8fea6a8a90ec0",
+  "active": "74d231401b4a20f6",
   "lastOpenFiles": [
-    "older_recipes/Bourekas.md",
-    "docs/_bread_and_pastries/Challah.md",
+    "docs/_dishes/Orange and Fennel Roast Chicken.md",
+    "docs/_dishes/Orange Chicken Tofu.md",
+    "docs/_desserts/Oatmeal Cookies.md",
+    "docs/_bread_and_pastries/Focaccia.md",
     "docs/_desserts/Pies.md",
+    "docs/_bread_and_pastries/Challah.md",
+    "docs/_dishes/Bourekas.md",
     "docs/_bread_and_pastries/Babka.md",
     "docs/_desserts/Snickerdoodles.md",
     "docs/_desserts/Nestle-style chocolate chip cookies.md",
@@ -214,10 +220,6 @@
     "docs/_dishes/Chili.md",
     "docs/_dishes/Chicken Schnitzel.md",
     "docs/_dishes/Baked Mac and Cheese.md",
-    "docs/_dishes/Cauliflower Red Curry.md",
-    "older_recipes/Baked Mac and Cheese.md",
-    "docs/index.md",
-    "docs/_bread_and_pastries/Flapjacks.md",
-    "docs/_bread_and_pastries/Matza.md"
+    "docs/_dishes/Cauliflower Red Curry.md"
   ]
 }

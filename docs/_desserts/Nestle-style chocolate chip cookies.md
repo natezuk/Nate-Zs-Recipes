@@ -5,7 +5,7 @@ title: Nestle-style Chocolate Chip Cookies
 
 ### Ingredients:
 
-- 325 g flour
+- 400 g flour
 - 1 tsp baking soda
 - 1 tsp salt
 - 150 g white sugar
@@ -25,3 +25,8 @@ title: Nestle-style Chocolate Chip Cookies
 4. Add the chocolate chips, walnuts, and cinnamon, and mix until evenly distributed in the dough.
 5. Scoop large spoonfuls of dough onto a baking tray with parchment paper.
 6. Bake at 175 C for 15 minutes.
+
+---
+### Notes
+
+*(4-2-2024)* Changed to 400 g instead of 325 g flour, possibly due to flour difference between USA and UK more plain flour is needed.

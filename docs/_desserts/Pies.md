@@ -11,7 +11,7 @@ The instructions below are for 9-inch pie pans.
 
 *Makes 2 crusts*
 
-- 2 cups plain flour
+- 2 cups plain flour (250 g)
 - 1 tsp salt
 - 250 g butter
 - 5 Tbsp cold water
