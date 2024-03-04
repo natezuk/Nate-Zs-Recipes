@@ -1,13 +1,11 @@
-[(1/8/2018)]{style="color: green"}
+---
+title: Bourekas
+---
+*The puff pastry comes from Baking & Pastry, "Butter puff pastry dough", p. 231. I make the recipe in full and freeze the dough that I don't use. However, the last time I made bourekas, I used nearly all of the dough.*
 
-The puff pastry comes from Baking & Pastry, \"Butter puff pastry
-dough\", p. 231. I make the recipe in full and freeze the dough that I
-don't use. However, the last time I made bourekas, I used nearly all of
-the dough.
+## Potato bourekas
 
-[Potato bourekas (made 12/17/2017)]{style="color: blue"}
-
-**Puff pastry:**
+### Puff pastry:
 
 Puff pastry dough:
 
@@ -40,20 +38,14 @@ another 30 min. Repeat this 3 more times.
 
 Freeze the dough to store it.
 
-**Potato filling:**
+### Potato filling:
 
-1.  Potatoes [(I think I used 2-3 lbs of potatoes this time, which made
-    a lot)]{style="color: red"}
-
-2.  Eggs [(4 eggs for the amount of potatoes I
-    used)]{style="color: red"}
-
+1.  Potatoes (I think I used 2-3 lbs of potatoes this time, which made a lot)
+2.  Eggs (4 eggs for the amount of potatoes I used)
 3.  Kosher salt and pepper to taste
 
 Peel, boil, and mash the potatoes. Add the eggs and mix in. Then add
 salt and pepper to taste.
-
-[6/12/2018]{style="color: green"}
 
 Bake for 35 min at 350 F.
 
@@ -67,25 +59,19 @@ large.]{style="color: red"}
 
 1 egg + 1/4 cup of water for the egg wash.
 
-[(6/13/2018)]{style="color: green"}
-
-For spinach and cheese bourekas, the filling is:
+## Spinach and cheese bourekas
+### For spinach and cheese bourekas, the filling is:
 
 -   3 cups cooked spinach
-
 -   1/2 cup ricotta
-
 -   1 cup feta
-
--   3 eggs [(this turned out very liquidy, can probably go with
-    fewer)]{style="color: red"}
-
+-   3 eggs (this turned out very liquidy, can probably go with
+    fewer)
 -   1 tsp of ground pepper
 
 Cut the dough into 3.5 inch squares and place about 1.5-2 tsp of filling
-in the middle [(with 3 eggs its runny, which makes it harder to
-fold)]{style="color: red"}. Fold into a triangle, sealing the filling in
+in the middle (with 3 eggs its runny, which makes it harder to
+fold). Fold into a triangle, sealing the filling in
 the middle. Bake at 350 F for 35 min.
 
-[The feta cheese and ricotta cheese was already salty, so I didn't need
-to add more salt.]{style="color: blue"}
+The feta cheese and ricotta cheese was already salty, so I didn't need to add more salt.
