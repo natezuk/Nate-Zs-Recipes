@@ -20,3 +20,7 @@ title: Scones, British style
 3.  Add the milk/buttermilk mixture and mix until it forms a cohesive pastry dough.
 4.  Roll the dough out on a floured surface to 1 cm thick. Use a glass or circular cutter to cut the dough into circles about 9 cm / 3.5 inches in diameter. Repeat with rolling the dough and cutting until the dough is cut into circles. Place each of the circles on a baking sheet with parchment paper.
 5.  Bake at 175 C for 18 minutes.
+
+## Modifications
+
+**Cheese scones:** Use only 1 tsp sugar. Add 200 g cheddar cheese (esp. red leicester).

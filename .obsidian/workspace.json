@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_dishes/Bourekas.md",
+                "file": "docs/_dishes/Baked Mac and Cheese.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_dishes/Bourekas.md",
+                "file": "docs/_dishes/Baked Mac and Cheese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_dishes/Bourekas.md",
+                "file": "docs/_dishes/Baked Mac and Cheese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_dishes/Bourekas.md"
+                "file": "docs/_dishes/Baked Mac and Cheese.md"
               }
             }
           },
@@ -193,8 +193,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74d231401b4a20f6",
+  "active": "e451e61ab2b499b1",
   "lastOpenFiles": [
+    "older_recipes/Baked Mac and Cheese 1.md",
+    "docs/_dishes/Baked Mac and Cheese.md",
+    "README.md",
     "docs/_dishes/Orange and Fennel Roast Chicken.md",
     "docs/_dishes/Orange Chicken Tofu.md",
     "docs/_desserts/Oatmeal Cookies.md",
@@ -209,7 +212,6 @@
     "docs/_dishes/Sauteed spiced beets.md",
     "docs/_dishes/Slow-cooked Red Cabbage.md",
     "docs/_dishes/Pirogies.md",
-    "README.md",
     "docs/_dishes/Matzah Brei.md",
     "docs/_desserts/Flourless Chocolate Cake.md",
     "docs/_dishes/Vegetable Quiche.md",
@@ -218,8 +220,6 @@
     "docs/_dishes/Chicken Pot Pie.md",
     "docs/_dishes/Food Wars Fried Chicken.md",
     "docs/_dishes/Chili.md",
-    "docs/_dishes/Chicken Schnitzel.md",
-    "docs/_dishes/Baked Mac and Cheese.md",
-    "docs/_dishes/Cauliflower Red Curry.md"
+    "docs/_dishes/Chicken Schnitzel.md"
   ]
 }

@@ -1,3 +1,6 @@
+---
+title: Baked Mac and Cheese
+---
 
 ### Ingredients:
 
