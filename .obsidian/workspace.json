@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_dishes/Baked Mac and Cheese.md",
+                "file": "docs/_dishes/Huevos Haminados.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_dishes/Baked Mac and Cheese.md",
+                "file": "docs/_dishes/Huevos Haminados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_dishes/Baked Mac and Cheese.md",
+                "file": "docs/_dishes/Huevos Haminados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_dishes/Baked Mac and Cheese.md"
+                "file": "docs/_dishes/Huevos Haminados.md"
               }
             }
           },
@@ -195,8 +195,11 @@
   },
   "active": "e451e61ab2b499b1",
   "lastOpenFiles": [
-    "older_recipes/Baked Mac and Cheese 1.md",
+    "docs/_dishes/Lomo Saltado.md",
+    "docs/_dishes/Huevos Haminados.md",
+    "docs/_dishes/Untitled",
     "docs/_dishes/Baked Mac and Cheese.md",
+    "older_recipes/Baked Mac and Cheese 1.md",
     "README.md",
     "docs/_dishes/Orange and Fennel Roast Chicken.md",
     "docs/_dishes/Orange Chicken Tofu.md",
@@ -218,8 +221,6 @@
     "docs/_dishes/Egg Drop Soup.md",
     "docs/_dishes/French Onion Soup.md",
     "docs/_dishes/Chicken Pot Pie.md",
-    "docs/_dishes/Food Wars Fried Chicken.md",
-    "docs/_dishes/Chili.md",
-    "docs/_dishes/Chicken Schnitzel.md"
+    "docs/_dishes/Food Wars Fried Chicken.md"
   ]
 }
