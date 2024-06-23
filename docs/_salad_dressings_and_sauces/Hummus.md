@@ -8,6 +8,7 @@ title: Hummus
 - 300 g chickpeas, cooked
 - 3 fl oz chickpea water
 - 2 fl oz lemon juice
+- 2 Tbsp tahini
 - 2 cloves garlic
 - 1/2 tsp sea salt
 - 1/2 tsp red pepper flakes

@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_dishes/Huevos Haminados.md",
+                "file": "docs/_dishes/Beef Kebabs.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_dishes/Huevos Haminados.md",
+                "file": "docs/_dishes/Beef Kebabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_dishes/Huevos Haminados.md",
+                "file": "docs/_dishes/Beef Kebabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_dishes/Huevos Haminados.md"
+                "file": "docs/_dishes/Beef Kebabs.md"
               }
             }
           },
@@ -195,8 +195,10 @@
   },
   "active": "e451e61ab2b499b1",
   "lastOpenFiles": [
-    "docs/_dishes/Lomo Saltado.md",
+    "docs/_salad_dressings_and_sauces/Hummus.md",
+    "docs/_dishes/Beef Kebabs.md",
     "docs/_dishes/Huevos Haminados.md",
+    "docs/_dishes/Lomo Saltado.md",
     "docs/_dishes/Untitled",
     "docs/_dishes/Baked Mac and Cheese.md",
     "older_recipes/Baked Mac and Cheese 1.md",
@@ -219,8 +221,6 @@
     "docs/_desserts/Flourless Chocolate Cake.md",
     "docs/_dishes/Vegetable Quiche.md",
     "docs/_dishes/Egg Drop Soup.md",
-    "docs/_dishes/French Onion Soup.md",
-    "docs/_dishes/Chicken Pot Pie.md",
-    "docs/_dishes/Food Wars Fried Chicken.md"
+    "docs/_dishes/French Onion Soup.md"
   ]
 }
