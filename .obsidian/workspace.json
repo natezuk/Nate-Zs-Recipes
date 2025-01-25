@@ -22,37 +22,8 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "e451e61ab2b499b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/_desserts/Sticky toffee pudding.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sticky toffee pudding"
-            }
-          },
-          {
-            "id": "d6e8fea6a8a90ec0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/_dishes/Orange and Fennel Roast Chicken.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Orange and Fennel Roast Chicken"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,10 +188,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e451e61ab2b499b1",
+  "active": "cc05a0cfab967078",
   "lastOpenFiles": [
-    "docs/_candies/Caramel Apples.md",
+    "docs/_dishes/Orange and Fennel Roast Chicken.md",
+    "README.md",
+    "docs/_desserts/Hermit cookies.md",
+    "docs/_desserts/Hamantaschen.md",
     "docs/_desserts/Sticky toffee pudding.md",
+    "docs/_candies/Caramel Apples.md",
     "docs/_desserts/Brownies.md",
     "docs/_desserts/Sephardic Orange Cookie Rings.md",
     "docs/_dishes/Beef Kebabs.md",
@@ -230,8 +205,6 @@
     "docs/_dishes/Untitled",
     "docs/_dishes/Baked Mac and Cheese.md",
     "older_recipes/Baked Mac and Cheese 1.md",
-    "README.md",
-    "docs/_dishes/Orange and Fennel Roast Chicken.md",
     "docs/_dishes/Orange Chicken Tofu.md",
     "docs/_desserts/Oatmeal Cookies.md",
     "docs/_bread_and_pastries/Focaccia.md",
@@ -243,8 +216,6 @@
     "docs/_desserts/Nestle-style chocolate chip cookies.md",
     "docs/_desserts/Biscotti.md",
     "docs/_dishes/Sauteed spiced beets.md",
-    "docs/_dishes/Slow-cooked Red Cabbage.md",
-    "docs/_dishes/Pirogies.md",
-    "docs/_dishes/Matzah Brei.md"
+    "docs/_dishes/Slow-cooked Red Cabbage.md"
   ]
 }
