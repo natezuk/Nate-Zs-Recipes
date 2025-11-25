@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "a48d10218bd04f0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/_dishes/Swedish Meatballs Sauce.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Swedish Meatballs Sauce"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -42,7 +57,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -71,8 +87,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -180,6 +196,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -188,10 +205,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc05a0cfab967078",
+  "active": "a48d10218bd04f0c",
   "lastOpenFiles": [
-    "docs/_dishes/Orange and Fennel Roast Chicken.md",
+    "docs/_dishes/Meatballs and gravy.md",
     "README.md",
+    "docs/_dishes/Orange and Fennel Roast Chicken.md",
     "docs/_desserts/Hermit cookies.md",
     "docs/_desserts/Hamantaschen.md",
     "docs/_desserts/Sticky toffee pudding.md",
@@ -215,7 +233,6 @@
     "docs/_desserts/Snickerdoodles.md",
     "docs/_desserts/Nestle-style chocolate chip cookies.md",
     "docs/_desserts/Biscotti.md",
-    "docs/_dishes/Sauteed spiced beets.md",
-    "docs/_dishes/Slow-cooked Red Cabbage.md"
+    "docs/_dishes/Sauteed spiced beets.md"
   ]
 }
