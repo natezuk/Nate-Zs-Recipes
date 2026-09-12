@@ -9,7 +9,7 @@ title: Beef Kebabs
 - 1 large onion, finely chopped
 - 2 cloves garlic, finely chopped
 - 1/4 cup parsley
-- 1 Tbsp baharat spice OR
+- 2 Tbsp baharat spice OR
 	- 1 1/2 tsp cinnamon
 	- 1 1/2 tsp allspice
 	- 3/4 tsp nutmeg (optional)
